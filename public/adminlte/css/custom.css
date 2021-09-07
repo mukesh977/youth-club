@@ -1,0 +1,281 @@
+.card-header {
+   	background: #17a2b8 !important;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    height: auto;
+    letter-spacing: 0.6px;
+    max-height: 49px
+}
+
+
+/* membership form */
+.inner-apply {
+    padding: 50px 0;
+    background-color: #e0e0e0;
+  }
+  
+  .inner-apply-form {
+    -webkit-box-shadow: 0px 0px 7px 1px #00000036;
+    box-shadow: 0px 0px 7px 1px #00000036;
+    margin: 0px 20px;
+    background-color: white;
+  }
+  
+  .inner-apply-form .form-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .inner-apply-form label {
+    font-weight: 600;
+  }
+  
+  .iaf-title {
+    text-align: center;
+    border-bottom: 4px solid #383434c7;
+    margin-bottom: 50px;
+    padding: 30px 20px;
+  }
+  
+  .iaft-left img {
+    height: 140px;
+    width: 100%;
+  }
+  
+  .iaft-middle p {
+    text-align: center;
+    font-weight: 600;
+  }
+  
+  .iaft-middle span {
+    font-size: 25px;
+    font-weight: 600;
+    color: #24408f;
+    display: block;
+    margin: 10px 0;
+  }
+  
+  .iaft-middle h2 {
+    color: #24408f;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 40px;
+  }
+  
+  .iaf-form {
+    padding: 0 40px 50px;
+  }
+  
+  .iaf-body {
+    padding-bottom: 40px;
+  }
+  
+  .iaf-body input[type="radio"] {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+  }
+  
+  .iafb-desc {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .iafb-desc h4 {
+    font-weight: 700;
+    border-bottom: 4px solid #383434c7;
+    display: inline-block;
+    padding: 4px 10px;
+    margin-bottom: 10px;
+    font-size: 30px;
+  }
+  
+  .iafb-desc h3 {
+    font-size: 25px;
+    font-weight: 600;
+  }
+  
+  .pm {
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .iafb-border {
+    border: 2px solid #383434c7;
+    margin: 40px 20px;
+  }
+  
+  .iafbb-single:not(:last-child) {
+    border-bottom: 2px solid #383434c7;
+  }
+  
+  .iafl {
+    border-right: 2px solid #383434c7;
+  }
+  
+  .iafrb {
+    border-left: 2px solid #383434c7;
+  }
+  
+  .iaf-left {
+    padding: 10px 0 10px 20px;
+  }
+  
+  .iaf-left span {
+    display: block;
+    font-weight: 600;
+  }
+  
+  .iaf-right {
+    padding: 10px;
+  }
+  
+  .iaf-right .form-control {
+    border: none;
+  }
+  
+  .iafr-sex {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+  
+  .iafr-sex label {
+    margin-bottom: 0;
+    margin-left: 10px;
+    font-size: 15px;
+  }
+  
+  .iafb-purpose h4 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-weight: 600;
+  }
+  
+  .iafbp-single {
+    padding: 20px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border: 1px solid #f2f2f2;
+    margin-bottom: 20px;
+  }
+  
+  .iafbp-single span {
+    font-size: 16px;
+  }
+  
+  .iafbtl {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+  
+  .iafbt-left h4 {
+    font-size: 20px;
+    font-weight: 600;
+  }
+  
+  .ifabt-single {
+    padding: 10px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border: 1px solid #f2f2f2;
+  }
+  
+  .ifabt-single span {
+    font-weight: 600;
+  }
+  
+  .iafb-msg {
+    border: 2px solid #383434c7;
+    margin: 20px 20px 40px;
+  }
+  
+  .iafb-msg h4 {
+    padding: 15px 20px 15px 40px;
+    border-bottom: 2px solid #383434c7;
+    font-weight: 600;
+    font-size: 17px;
+    position: relative;
+  }
+  
+  .iafb-msg h4::before {
+    content: "";
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    background-color: #383434c7;
+    position: absolute;
+    top: 25px;
+    left: 20px;
+  }
+  
+  .iafb-msg span {
+    display: block;
+    font-size: 15px;
+    margin-top: 10px;
+    font-weight: normal;
+  }
+  
+  .iafb-msg textarea {
+    border: none;
+    padding: 20px;
+  }
+  
+  .iafb-docs {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+  
+  .iafb-docs label {
+    font-size: 16px;
+  }
+  
+  .iafb-docs h4 {
+    margin-bottom: 35px;
+  }
+  
+  .iafb-docs h4 strong {
+    border-bottom: 3px solid #383434c7;
+    text-transform: uppercase;
+    font-size: 20px;
+    padding-bottom: 2px;
+  }
+  
+  .iafb-docs h4 span {
+    display: block;
+    margin-top: 15px;
+    font-size: 15px;
+    font-weight: 600;
+  }
+  
+  .ifab-submit .btn {
+    background: #24408f;
+    color: white;
+    border-radius: 0;
+    padding: 8px 30px;
+    font-weight: 600;
+  }
